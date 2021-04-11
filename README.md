@@ -23,4 +23,4 @@ netherlands: 5.2% chance of winning
 scotland: 5.1% chance of winning
 uae: 4.9% chance of winning
 
-This is how using python we can guss who is going to win this time.
+This is how using python we can guss who is going to win this time :)
