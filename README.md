@@ -24,3 +24,5 @@ scotland: 5.1% chance of winning
 uae: 4.9% chance of winning
 
 This is how using python we can guss who is going to win this time :)
+
+Every time you will run this program, you will get different output and that is the beauty of this program.
