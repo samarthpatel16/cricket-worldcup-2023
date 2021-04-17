@@ -3,7 +3,7 @@ This ia a python project which will guess which team will win cricket worldcup 2
 
 The csv file contains the raitings of all the cricket teams in one-day cricket.
 
-This program will organise 10000 virtual tournaments, and try to figure out the percentages of respective teams.
+This program will organise 1000 virtual tournaments, and try to figure out the percentages of respective teams.
 
 Output:
 england: 7.7% chance of winning
